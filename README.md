@@ -4,3 +4,5 @@ Given below is the evaluation results of the implemented BLSTM model on [test da
 | Metrics (weighted avg) | Precision  | Recall  | F1_score  |
 | ------- | --- | --- | --- |
 | Score | 0.81 | 0.78 | 0.79 |
+
+For more information regarding the implementation, please look into the notebook.
