@@ -5,4 +5,4 @@ Given below is the evaluation results of the implemented BLSTM model on [test da
 | ------- | --- | --- | --- |
 | Score | 0.81 | 0.78 | 0.79 |
 
-For more information regarding the implementation, please look into the notebook.
+For more information regarding the implementation, please look into the notebook which is well commented :).
